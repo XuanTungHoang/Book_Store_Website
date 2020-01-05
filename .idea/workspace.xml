@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea8b2b0e-dcbf-46fd-99ed-e08c6f1ea551" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>changeStatus</find>
+      <find>morris-donut-example</find>
+      <find>&quot;morris-bar-example</find>
+      <find>morris-bar-example</find>
+      <find>simple-pie</find>
+      <find>nicescroll</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1UvFFixg82j6NCDwF6Jd1IztU0F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop_dientu" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1.CD\wamp64\www\teo\pages\admin\order" />
+      <recent name="D:\1.CD\wamp64\www\teo" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea8b2b0e-dcbf-46fd-99ed-e08c6f1ea551" name="Default" comment="" />
+      <created>1574682421589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574682421589</updated>
+      <workItem from="1574682423213" duration="1380000" />
+      <workItem from="1574685423568" duration="52000" />
+      <workItem from="1574685505297" duration="5880000" />
+      <workItem from="1574824821353" duration="14319000" />
+      <workItem from="1574945831541" duration="10975000" />
+      <workItem from="1575284225533" duration="3984000" />
+      <workItem from="1575384067697" duration="604000" />
+      <workItem from="1575529336018" duration="1424000" />
+      <workItem from="1575984899394" duration="235000" />
+      <workItem from="1576229064081" duration="10582000" />
+      <workItem from="1576250441673" duration="31000" />
+      <workItem from="1576459730703" duration="597000" />
+      <workItem from="1576484381645" duration="64000" />
+      <workItem from="1576591955046" duration="11516000" />
+      <workItem from="1576631425137" duration="611000" />
+      <workItem from="1576632443602" duration="6317000" />
+      <workItem from="1576639527969" duration="6758000" />
+      <workItem from="1576660482051" duration="2328000" />
+      <workItem from="1576726052983" duration="2533000" />
+      <workItem from="1576739814207" duration="604000" />
+      <workItem from="1576762806604" duration="152000" />
+      <workItem from="1576762977327" duration="3357000" />
+      <workItem from="1576813067509" duration="1686000" />
+      <workItem from="1576998032527" duration="5914000" />
+      <workItem from="1577151905028" duration="608000" />
+      <workItem from="1577152647673" duration="1445000" />
+      <workItem from="1577166487882" duration="721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1577152889820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577152889820" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1576813451856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1576813451856" />
+  </component>
+</project>
